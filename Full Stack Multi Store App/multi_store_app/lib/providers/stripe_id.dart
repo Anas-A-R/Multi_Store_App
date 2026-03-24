@@ -1,4 +1,4 @@
 const publishableKey =
-    'pk_test_51PGeVjIlfX11QnVjhcyzk07d69BdKfIccBCVXpoz95eP1EEglRAo8cpn2Xyh26bTT6FmvBD7qCXhFeQe2hsEm7NR00od6VSa15';
+    'YOUR-KEY-HERE';
 const secretKey =
-    'sk_test_51PGeVjIlfX11QnVjObucx7TzzTmIVLL1Hb9mfhWkwLDA3KiyxURNcF7qVzY4hnbPagV79JWawUza7FcKqO3fk5p200qOoMUAlr';
+    'YOUR-KEY-HERE';
